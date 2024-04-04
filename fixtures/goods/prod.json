@@ -1,0 +1,242 @@
+[
+    {
+        "model": "goods.projects",
+        "pk": 1,
+        "fields": {
+            "name": "Реконструкция склада",
+            "slug": "rekonstrukciya-sklada",
+            "description": "Монтаж стен",
+            "image": "",
+            "budget": "80000.50",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 2,
+            "start_date": "2022-04-02",
+            "end_date": "2023-02-01"
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 2,
+        "fields": {
+            "name": "Ремонт крыши жилого дома",
+            "slug": "remont-kryshi-zhilogo-doma",
+            "description": "Монтаж электропроводки",
+            "image": "",
+            "budget": "10000.49",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 2,
+            "start_date": "2022-09-12",
+            "end_date": "2023-04-15"
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 3,
+        "fields": {
+            "name": "Строительство офисного здания",
+            "slug": "stroitelstvo-ofisnogo-zdaniya",
+            "description": "Очистка территории, подготовка фундамента, проведение коммуникаций (водоснабжение, канализация, электроснабжение и т. д.).",
+            "image": "",
+            "budget": "15000.01",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 3,
+            "start_date": "2024-04-01",
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 4,
+        "fields": {
+            "name": "Строительство жилого комплекса",
+            "slug": "stroitelstvo-zhilogo-kompleksa",
+            "description": "Возводятся множество жилых блоков в современном комплексе с инфраструктурой для комфортной жизни.",
+            "image": "",
+            "budget": "18999.99",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 3,
+            "start_date": "2024-04-02",
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 5,
+        "fields": {
+            "name": "Ремонт офисных помещений",
+            "slug": "remont-ofisnyh-pomeshenij",
+            "description": "Обновление интерьера",
+            "image": "",
+            "budget": "13455.00",
+            "discount": "0.00",
+            "quantity": 3,
+            "category": 5,
+            "start_date": null,
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 6,
+        "fields": {
+            "name": "Строительство детского сада",
+            "slug": "stroitelstvo-detskogo-sada",
+            "description": "Строится современный детский сад с яркими игровыми зонами и безопасной инфраструктурой.",
+            "image": "",
+            "budget": "64999.98",
+            "discount": "0.00",
+            "quantity": 2,
+            "category": 3,
+            "start_date": "2024-04-02",
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 7,
+        "fields": {
+            "name": "Реконструкция магазина",
+            "slug": "rekonstrukciya-magazina",
+            "description": "Проходит реконструкция магазина с целью обновления интерьера и улучшения условий для покупателей.",
+            "image": "",
+            "budget": "7664.99",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 3,
+            "start_date": "2023-04-09",
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 8,
+        "fields": {
+            "name": "Строительство спортивного комплекса",
+            "slug": "stroitelstvo-sportivnogo-kompleksa",
+            "description": "Планируется строительство современного спортивного комплекса, оборудованного современными тренажерами и спортивными площадками для различных видов активного отдыха и тренировок",
+            "image": "",
+            "budget": "9776.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 5,
+            "start_date": null,
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 9,
+        "fields": {
+            "name": "Строительство парковки",
+            "slug": "stroitelstvo-parkovki",
+            "description": "В процессе строительства парковки, где укладывается асфальт и монтируются освещение и удобные маркировки для автомобилей, с целью создания удобного и безопасного места для парковки.",
+            "image": "",
+            "budget": "6565.00",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 3,
+            "start_date": "2021-04-02",
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 10,
+        "fields": {
+            "name": "Реконструкция кафе",
+            "slug": "rekonstrukciya-kafe",
+            "description": "Планируется реконструкция кафе с целью обновления интерьера, расширения меню и создания более комфортной и уютной атмосферы для посетителей.",
+            "image": "",
+            "budget": "2334.00",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 5,
+            "start_date": null,
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 11,
+        "fields": {
+            "name": "Строительство моста",
+            "slug": "stroitelstvo-mosta",
+            "description": "Планируется строительство моста, который будет соединять два берега реки, с использованием современных технологий и материалов для обеспечения безопасности и устойчивости конструкции.",
+            "image": "",
+            "budget": "11111.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 5,
+            "start_date": null,
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 12,
+        "fields": {
+            "name": "Ремонт школьных классов",
+            "slug": "remont-shkolnyh-klassov",
+            "description": "В процессе ремонта школьных классов, где проводится обновление стен, полов, освещения и мебели с целью создания комфортной и стимулирующей обучение обстановки для учащихся.",
+            "image": "",
+            "budget": "5756.99",
+            "discount": "0.00",
+            "quantity": 4,
+            "category": 3,
+            "start_date": "2020-04-02",
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 13,
+        "fields": {
+            "name": "Строительство торгового центра",
+            "slug": "stroitelstvo-torgovogo-centra",
+            "description": "Планируется строительство торгового центра с разнообразными магазинами, кафе и развлекательными зонами, предназначенного для удовлетворения различных потребностей посетителей и создания комфортной торговой среды.",
+            "image": "",
+            "budget": "4543.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 5,
+            "start_date": null,
+            "end_date": null
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 14,
+        "fields": {
+            "name": "Реконструкция кинотеатра",
+            "slug": "rekonstrukciya-kinoteatra",
+            "description": "Завершена реконструкция кинотеатра, где обновлены залы, улучшена акустика и обновлена аппаратура, чтобы создать современное и комфортное кинематографическое пространство для зрителей.",
+            "image": "",
+            "budget": "75455.00",
+            "discount": "0.00",
+            "quantity": 1,
+            "category": 2,
+            "start_date": "2018-04-02",
+            "end_date": "2024-04-02"
+        }
+    },
+    {
+        "model": "goods.projects",
+        "pk": 15,
+        "fields": {
+            "name": "Строительство автомойки",
+            "slug": "stroitelstvo-avtomojki",
+            "description": "создание современного объекта с подготовленными площадками, высококачественным оборудованием и инфраструктурой для эффективной мойки автомобилей.",
+            "image": "",
+            "budget": "65443.00",
+            "discount": "0.00",
+            "quantity": 7,
+            "category": 3,
+            "start_date": "2017-04-02",
+            "end_date": null
+        }
+    }
+]

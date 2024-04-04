@@ -1,0 +1,27 @@
+[
+    {
+        "model": "goods.catigories",
+        "pk": 2,
+        "fields": {
+            "name": "Построенные товары",
+            "slug": "postroennye-tovary"
+        }
+    },
+    {
+        "model": "goods.catigories",
+        "pk": 3,
+        "fields": {
+            "name": "Строящиеся проекты",
+            "slug": "stroyashiesya-proekty"
+        }
+    },
+    {
+        "model": "goods.catigories",
+        "pk": 5,
+        "fields": {
+            "name": "Будущие проекты",
+            "slug": "budushie-proekty"
+        }
+    }
+]
+
